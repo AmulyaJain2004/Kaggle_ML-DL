@@ -1,0 +1,10 @@
+__pycache__/
+venv/
+
+00_Fundamentals/
+01_Regression/
+02_Classification/
+03_Clustering/
+04_Dimensionality_Reduction/
+05_Utils/
+06_DS_&_ML_Projects/
